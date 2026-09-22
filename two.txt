@@ -1,0 +1,3 @@
+This is second text file in folder three. 
+I am learning to push the files directly from my local machine to github. 
+
