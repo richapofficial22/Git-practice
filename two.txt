@@ -1,3 +1,5 @@
 This is second text file in folder three. 
 I am learning to push the files directly from my local machine to github. 
 
+
+Now I am adding one more line to check if upstream is set.
